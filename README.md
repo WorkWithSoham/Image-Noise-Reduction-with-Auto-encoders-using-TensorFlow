@@ -2,7 +2,8 @@
 
 ## Simple project to learn in deep the working of Auto encoders and tensorflow in detail.
 
-To successfully run the Jupyter Notebook, make sure you have the required Python libraries installed on the working environtment.
+Requires Python 3.5 to 3.7 to make Tensorlow work on the device!
+To successfully run the Jupyter Notebook, make sure you have the required Python libraries installed on the working environment.
 
 To install the required libraries:
 1. Open terminal of the IDE or CMD promt.
