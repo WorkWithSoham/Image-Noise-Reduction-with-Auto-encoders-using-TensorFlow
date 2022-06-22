@@ -4,4 +4,4 @@ jupyter
 tensorflow==2.2
 matplotlib==3.2.1
 keras==2.3.0
-numpy==1.18.5
+numpy==1.22.0
